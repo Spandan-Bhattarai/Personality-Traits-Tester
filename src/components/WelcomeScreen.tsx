@@ -77,7 +77,7 @@ export const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onStart }) => {
         </div>
 
         <div className="text-sm text-gray-500 animate-fade-in-delay">
-          <p>This assessment will help you understand your personality preferences and how you interact with the world. Developed by Spandan</p>
+          <p>This assessment will help you understand your personality preferences and how you interact with the world. <a href="https://github.com/Spandan-Bhattarai/Personality-Traits-Tester">Click here for the source code by Spandan</a></p>
         </div>
       </div>
     </div>
